@@ -3,5 +3,5 @@ package pr
 import "fmt"
 
 func Lprint() {
-	fmt.Println("Hello hello world")
+	fmt.Println("Hello hello worldv6.0.0")
 }
